@@ -9,6 +9,7 @@
                 <field name="precio"/>
                 <field name="stock"/>
                 <field name="activo"/>
+                <field name='valor_inventario'/>
             </list>
         </field>
     </record>
@@ -25,6 +26,7 @@
                         <field name="precio"/>
                         <field name="stock"/>
                         <field name="activo"/>
+                        <field name='valor_inventario'/>
                     </group>
                 </sheet>
             </form>
